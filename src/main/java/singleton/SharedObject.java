@@ -12,5 +12,4 @@ public class SharedObject {
 
     @Getter
     private static final SharedObject sharedObject = new SharedObject();
-
 }

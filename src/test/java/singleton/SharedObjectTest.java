@@ -12,4 +12,3 @@ public class SharedObjectTest {
         assertEquals(version, SharedObject.getSharedObject().getCurrentVersion());
     }
 }
-
