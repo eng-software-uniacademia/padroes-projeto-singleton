@@ -1,5 +1,3 @@
-package singleton;
-
 import lombok.Getter;
 import lombok.Setter;
 
